@@ -7,8 +7,9 @@
 -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=36&pause=800&center=true&vCenter=true&width=900&lines=Hello%2C+I'm+Amulya+Goli;Medical+Coder+%26+Claims+Specialist;Revenue+Cycle+%7C+CPT+%7C+ICD-10-CM+%7C+HCPCS;Building+tools+that+prevent+denials+%26+speed+reimbursement" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=32&pause=800&center=true&vCenter=true&width=1200&lines=Hello%2C+I%27m+Amulya+Goli;Medical+Coder+%26+Claims+Specialist;Revenue+Cycle+%7C+CPT+%7C+ICD-10-CM+%7C+HCPCS;Building+tools+that+prevent+denials+%26+speed+reimbursement" alt="Typing SVG" />
 </p>
+
 
 <div align="center">
   <!-- Subtle animated banner (SVG gradient + shimmer) -->
