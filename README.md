@@ -124,9 +124,12 @@ Proof-of-concept assistant for ICD-10-CM lookup, **modifier guidance**, and **NC
 ---
 
 <div align="center">
-  <img src="assets/portfolio.png" width="880" alt="Portfolio hero" />
-  <br/><br/>
-  <i>“Fewer edits. Fewer denials. Faster payments.”</i>
+  <a href="https://amulyagoli.github.io/Portfolio/" target="_blank" rel="noopener noreferrer" title="Open my Portfolio">
+    <img src="assets/portfolio.png" width="880" alt="Portfolio hero" />
+    <br/><br/>
+    <i>“Fewer edits. Fewer denials. Faster payments.”</i>
+  </a>
 </div>
+
 
 
