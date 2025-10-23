@@ -106,7 +106,7 @@ Proof-of-concept assistant for ICD-10-CM lookup, **modifier guidance**, and **NC
 ## 🧭 Quick Links
 - 🔗 **Portfolio:** <a href="https://amulyagoli.github.io/Portfolio/">amulyagoli.github.io/Portfolio/</a>  
 - 🧪 **Live Demo (MCT):** <a href="https://medical-coding-tool.vercel.app/">medical-coding-tool.vercel.app</a>  
-- 📄 **Resume:** <a href="Amulya_goli_resume.pdf">PDF</a>
+- 📄 **Resume:** <a href="assets/Amulya_goli_resume.pdf">PDF</a>
 
 ---
 
