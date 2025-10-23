@@ -6,14 +6,6 @@
        - /assets/portfolio.png
 -->
 
-<p align="center">
-  <picture>
-    <source type="image/svg+xml" srcset="assets/rcm-banner.svg" />
-    <img src="assets/revenue_cycle.svg" alt="animated banner" width="100%" />
-  </picture>
-</p>
-
-
 
 
 <p align="center">
