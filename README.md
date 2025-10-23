@@ -7,8 +7,12 @@
 -->
 
 <p align="center">
-  <img src="assets/revenue_cycle.svg" alt="animated banner" width="100%" />
+  <picture>
+    <source type="image/svg+xml" srcset="assets/rcm-banner.svg" />
+    <img src="assets/revenue_cycle.svg" alt="animated banner" width="100%" />
+  </picture>
 </p>
+
 
 
 
