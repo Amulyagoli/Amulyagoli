@@ -32,7 +32,7 @@
   <a href="mailto:goliamulya28@gmail.com"><img src="https://img.shields.io/badge/Email-goliamulya28%40gmail.com-0b84fe?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/amulyagoli/"><img src="https://img.shields.io/badge/LinkedIn-Amulya%20Goli-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://amulyagoli.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-Live-9c7cff?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-  <a href="Amulya_goli_resume.pdf"><img src="https://img.shields.io/badge/Resume-PDF-eac46b?style=for-the-badge&logo=readthedocs&logoColor=222"/></a>
+  <a href="assets/Amulya_goli_resume.pdf"><img src="https://img.shields.io/badge/Resume-PDF-eac46b?style=for-the-badge&logo=readthedocs&logoColor=222"/></a>
 </p>
 
 ---
