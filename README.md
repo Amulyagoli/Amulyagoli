@@ -11,10 +11,14 @@
 </p>
 
 
-<div align="center">
-  <!-- Subtle animated banner (SVG gradient + shimmer) -->
-  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=Revenue%20Cycle%20%F0%9F%92%8E&text2=Accuracy%20%E2%80%A2%20Compliance%20%E2%80%A2%20Speed&width=1200&height=250" alt="animated banner" />
-</div>
+<p align="center">
+  <img
+    src="https://svg-banners.vercel.app/api?type=glitch&text1=Revenue%20Cycle%20%F0%9F%92%8E&text2=Accuracy%20%E2%80%A2%20Compliance%20%E2%80%A2%20Speed&width=1200&height=250"
+    alt="animated banner"
+    width="100%"
+  />
+</p>
+
 
 <br/>
 
