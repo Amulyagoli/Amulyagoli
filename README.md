@@ -113,13 +113,12 @@ Proof-of-concept assistant for ICD-10-CM lookup, **modifier guidance**, and **NC
 ---
 
 <details>
-  <summary><b>Behind the Design (motion & polish)</b></summary>
+  <summary><b>About Me</b></summary>
 
-- Animated banner (SVG) + typing headline to create a premium first impression  
-- Trophy + stats cards for social proof and momentum  
-- Project spotlight with hero image (drag your own file to <code>/assets</code> and update the path)  
-- Badges = fast “at-a-glance” expertise (CPT/ICD-10-CM/HCPCS/NCCI…)  
-- Everything is mobile-friendly and dark-mode-happy ✨
+- As a CPC‑certified healthcare professional
+- I specialize in optimizing revenue cycles through expert medical coding, comprehensive claims analysis, and innovative technology solutions.
+- With experience in both inpatient and outpatient settings
+- I build efficient coding tools that enhance accuracy, ensure compliance, and accelerate reimbursement.✨
 </details>
 
 ---
