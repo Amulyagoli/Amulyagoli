@@ -129,3 +129,8 @@ Proof-of-concept assistant for ICD-10-CM lookup, **modifier guidance**, and **NC
   <i>“Fewer edits. Fewer denials. Faster payments.”</i>
 </div>
 
+<div align="center">
+  <img src="assets/ammu.png" alt="Amulya portrait" width="200" style="border-radius:20px;box-shadow:0 10px 40px rgba(0,0,0,.2)" />
+   <br/><br/>
+  <i>“Fewer edits. Fewer denials. Faster payments.”</i>
+</div>
